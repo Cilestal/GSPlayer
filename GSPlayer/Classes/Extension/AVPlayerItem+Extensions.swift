@@ -33,7 +33,7 @@ public extension AVPlayerItem {
     
 }
 
-extension AVPlayerItem {
+public extension AVPlayerItem {
     
     var isEnoughToPlay: Bool {
         guard
